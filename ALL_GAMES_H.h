@@ -1,8 +1,8 @@
 #ifndef ALL_GAMES_H
 #define ALL_GAMES_H
 
-int dragon_game();
-int snitch_escape();
-int maze_game();
+int B24CS1010_B24CS1052_B24BB1031_B24EE1084_dragon_game();
+int B24CS1010_B24CS1052_B24BB1031_B24EE1084_snitch_escape();
+int B24CS1010_B24CS1052_B24BB1031_B24EE1084_maze_game();
 
 #endif
